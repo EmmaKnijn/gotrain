@@ -510,7 +510,7 @@ components:
                 type: string
                 format: date-time
               assistance_available:
-                format: boolean
+                type: boolean
               departure_cancelled:
                 type: boolean
               departure_delay:
