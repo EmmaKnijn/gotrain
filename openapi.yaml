@@ -182,7 +182,7 @@ paths:
               schema:
                 type: object
                 properties:
-                  arrivals:
+                  departures:
                     type: array
                     items:
                       $ref: "#/components/schemas/Departure"
