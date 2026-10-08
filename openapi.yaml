@@ -593,10 +593,10 @@ components:
                             type: boolean
                           destination:
                             type: string
-                            example: GVC
+                            example: Den Haag Centraal
                           destination_code:
                             type: string
-                            example: Den Haag Centraal
+                            example: GVC
                           number:
                             type: string
                             example: "4024"
